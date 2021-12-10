@@ -1,2 +1,2 @@
-# lab
+# Neural network lab
 Personal playground
